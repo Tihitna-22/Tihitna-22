@@ -1,5 +1,5 @@
-### Hi there 👋
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=A97754&size=30&lines=Hey!+It's+Tihitna!;I'm+a+Software+Engineer...;and+a+Frontend+Developer;feel+free+to+contact+me;with+the+links+below)](https://git.io/typing-svg)
+###  👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=A97754&size=30&lines=Hi,+It's+Tihitna!;I'm+a+Frontend+Developer;feel+free+to+contact+me;with+the+links+below)](https://git.io/typing-svg)
 <p> 
  
   <a href="www.linkedin.com/in/tihitna-sisay" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
